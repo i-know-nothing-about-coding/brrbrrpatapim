@@ -1,0 +1,25 @@
+/tick freeze
+/gam
+/gamemode
+/gamemode creative
+/tick
+/tick freeze
+/gamemode creative
+/gamemode survival
+/tick unfreeze
+/tp
+/tp seb_05
+/tell seb_05 poda potta nai
+/register Footpunch
+/server
+/tp
+/server
+/tell prime
+/tell Prime_nizzz what am i supposed to do bro?
+/tell Prime_nizzz im new here
+/balance Prime_nizzz
+/tell Prime_nizzz thanks bro omg
+/tell Prime_nizzz sure mate!
+/tell Prime_nizzz sure tell me ip bro
+/tell Prime_nizzz alr bro
+/tell Prime_nizzz tell it
